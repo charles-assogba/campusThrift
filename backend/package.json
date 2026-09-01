@@ -20,7 +20,7 @@
     "express": "^5.1.0",
     "inngest": "^3.54.2",
     "mongoose": "^8.19.3",
-    "multer": "^2.0.2",
+    "multer": "^2.3.0",
     "stripe": "^19.3.1"
   }
 }
