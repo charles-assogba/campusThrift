@@ -1,7 +1,6 @@
 <h1 align="center">✨ Full-Stack E-Commerce App (Mobile + Admin + API) ✨</h1>
 
 
-
 ✨ **Highlights:**
 
 - 📱 Fully Functional E-Commerce Mobile App (React Native + Expo)
